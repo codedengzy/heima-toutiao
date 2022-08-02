@@ -8,6 +8,9 @@
   <div id="app">
     <router-view/>
     <h1>移动端头条</h1>
+    <div>
+      <i class="iconfont icon-shoucang"></i>
+    </div>
   </div>
 </template>
 <script>
